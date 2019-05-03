@@ -13,4 +13,4 @@ git commit -m "Added new version of blueprint Linux7g - Modified on: $dateTime"
 
 git push
 
-echo "Done"
+echo "Done."
